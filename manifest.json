@@ -1,10 +1,10 @@
 {
     "name": "TiddlyWiki",
-    "id": "nullboard",
+    "id": "tiddlywiki",
     "packaging_format": 1,
     "description": {
-        "en": "Minimalist kanban board, focused on compactness and readability",
-        "fr": "Kanban minimaliste, axé sur la compacité et la lisibilité"
+        "en": "A non-linear personal web notebook",
+        "fr": "a non-linear personal web notebook"
     },
     "version": "5.1.23~ynh1",
     "url": "https://nullboard.io/preview",
